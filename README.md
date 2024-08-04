@@ -15,7 +15,7 @@ The project involves the following key tasks:
 * **Exploratory Data Analysis (EDA):** Analyzing the distribution and relationships between different health metrics.
 * **Grouping Patients:** Grouping patients based on age, blood pressure, heart rate, and oxygen saturation categories.
 * **Visualization:** Visualizing the distribution of patient groups and health categories.
-
+  
 ## Libraries Used
 * **Pandas:** Used for data manipulation and analysis.
 * **Matplotlib:** Utilized for creating various plots and visualizations.
@@ -51,7 +51,8 @@ The dataset contains the following columns:
 **Timestamp:** Date and time of the measurement.
 
 ## How to Use
-  Excited to embark on your health analysis journey? Follow these steps:
+
+Are you ready to start your health analysis journey? Follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using git clone.
 2. **Install Dependencies:** Ensure you have Python installed, along with the required libraries mentioned.
